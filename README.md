@@ -17,3 +17,4 @@ I am Learning C, C++, JAVA, JavaScript, CSS, HTML.
 - 2021.07.05 2021-2학기 재학생 성적우수장학금 수여 ⚡
 - 2021.09.30 ISTQB CTFL 자격증 취득
 - 2021.11.19 부산IT융합부품연구소 제 4회 크라우드 테스팅(Crowd Testing) 경진대회 대상 수여 ✨
+- 2021.12.17 제 16회 TOPCIT 정기평가 최고득점 총장상 수여 ✨
