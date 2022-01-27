@@ -1,6 +1,6 @@
 ## 민정 MinJeong's GITHUB :) 👋
 
-Hello, My Name is MinJeong. I'm studying to be a Software Engineer.
+Hello, My Name is MinJeong. I'm studying to be a Software Engineer. </br>
 I am Learning C, C++, JAVA, JavaScript, CSS, HTML.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1DOX&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
