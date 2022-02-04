@@ -1,8 +1,8 @@
 <div align="center">
   
 ## [  민정 MinJeong's GITHUB :) 👋  ]
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1DOX&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1DOX&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1DOX&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1DOX&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
   
