@@ -1,13 +1,14 @@
+<div align="center">
 <hr/> 
 
-<h2 align="center">👋 민정 MinJeong's GITHUB :) 👋</h2>
+<h2 align="center">[  민정 MinJeong's GITHUB :) 👋  ]</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1DOX&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1DOX&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
 
-<h2 align="center">🤹‍ Work Experience 🤹‍</h2>
+<h2 align="center">[  Work Experience 🤹‍  ]</h2>
 
 - 2019.03.04 ~ 동의대학교 재학
 - 2020.02.21 2020-1학기 재학생 성적우수장학금 수여 ⚡
@@ -23,7 +24,7 @@
 
 <hr/>
 
-<h2 align="center">🛠 Tech Stack 🛠</h2>
+<h2 align="center">[  Tech Stack 🛠  ]</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-E7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -48,7 +49,7 @@
 
 <hr/>
 
-<h2 align="center">:mailbox_with_mail: SNS List :mailbox_with_mail:</h2>
+<h2 align="center">[  SNS List :mailbox_with_mail:  ]</h2>
 <p align="center">
 <a href="https://www.instagram.com/mxnxeonx/" target="_blank"><img src="https://img.shields.io/badge/@mxnxeonx-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/@veta23-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=white"/>
@@ -56,3 +57,4 @@
 <img src="https://img.shields.io/badge/1DOX%231208-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
   
 <hr/>
+</div>
